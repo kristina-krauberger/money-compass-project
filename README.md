@@ -1,6 +1,6 @@
-# Money Compass – AI Investment Recommendation System (WIP)
+# Money Compass – AI Investment Recommendation System (In Development)
 
-Money Compass is a work-in-progress prototype of an AI-powered investment recommendation system.
+Money Compass is a prototype of an AI-powered investment recommendation system currently in development.
 
 It combines user input, structured decision logic, and a Large Language Model (LLM) to generate simple, human-friendly investment guidance for beginners.
 
@@ -11,14 +11,19 @@ It combines user input, structured decision logic, and a Large Language Model (L
 The system consists of:
 
 - a React frontend for user interaction  
-- a backend API (in progress)  
+- a backend service API (in development)
 - an AI layer using prompt-based logic and Retrieval-Augmented Generation (RAG)  
 
 The goal is to translate financial concepts into clear, accessible explanations.
 
+---
+
+## Preview
+
 <p align="center">
   <img src="landing.png" width="900" />
 </p>
+
 ---
 
 ## AI Approach
