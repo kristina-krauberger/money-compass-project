@@ -11,12 +11,10 @@ It combines user input, structured decision logic, and a Large Language Model (L
 The system consists of:
 
 - a React frontend for user interaction  
-- a backend service API (in development)
+- a backend service API (in development)  
 - an AI layer using prompt-based logic and Retrieval-Augmented Generation (RAG)  
 
 The goal is to translate financial concepts into clear, accessible explanations.
-
----
 
 ## Preview
 
@@ -51,7 +49,7 @@ Backend (Service API – WIP)
 ## Tech Stack
 
 React, Vite  
-Python, Flask   
+Python, Flask  
 LLM integration  
 Prompt Engineering  
 RAG (context-based explanations)
@@ -60,7 +58,7 @@ RAG (context-based explanations)
 
 ## Status
 
-Work in progress  
+In development  
 Frontend playground available  
 Backend currently being built  
 
