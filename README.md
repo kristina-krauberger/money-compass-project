@@ -16,6 +16,9 @@ The system consists of:
 
 The goal is to translate financial concepts into clear, accessible explanations.
 
+<p align="center">
+  <img src="landing.png" width="900" />
+</p>
 ---
 
 ## AI Approach
